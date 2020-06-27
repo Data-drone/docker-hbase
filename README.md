@@ -1,6 +1,10 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/big-data-europe/Lobby)
 
-# docker-hbase
+# Docker HBase Phoenix
+
+Adds Phoenix 5.0 on top of HBase 2.0.0.
+See: http://phoenix.apache.org/ for information on Apache Phoenix
+
 
 # Standalone
 To run standalone hbase:
